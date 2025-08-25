@@ -20,14 +20,10 @@
 
 ## 📂 프로젝트
 - [CloneWebsitePage](https://github.com/Park2177/CloneWebsitePage.git) ![GitHub stars](https://img.shields.io/github/stars/Park2177/CloneWebsitePage?style=social)  
-  프론트엔드 연습 프로젝트  
+  프론트엔드 연습 프로젝트
+  [<https://snsn2177.dothome.co.kr>](https://snsn2177.dothome.co.kr/)
 - [SpringBoot-mypet](https://github.com/UoUGit/SpringBoot-mypet.git) ![GitHub stars](https://img.shields.io/github/stars/UoUGit/SpringBoot-mypet?style=social)  
   팀 프로젝트 (Spring Boot 기반 애완동물 관리 웹 앱)  
-
----
-
-## 📊 GitHub 통계
-![박현준 GitHub stats](https://github-readme-stats.vercel.app/api?username=Park2177&show_icons=true&theme=radical)
 
 ---
 
