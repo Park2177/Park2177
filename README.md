@@ -20,7 +20,7 @@
 
 ## 📂 프로젝트
 - [CloneWebsitePage](https://github.com/Park2177/CloneWebsitePage.git) ![GitHub stars](https://img.shields.io/github/stars/Park2177/CloneWebsitePage?style=social)  
-  프론트엔드 연습 프로젝트 (실제 클론 사이트: [바로가기](https://snsn2177.dothome.co.kr/)) 
+  프론트엔드 연습 프로젝트 (클론 사이트: (https://snsn2177.dothome.co.kr/)) 
 - [SpringBoot-mypet](https://github.com/UoUGit/SpringBoot-mypet.git) ![GitHub stars](https://img.shields.io/github/stars/UoUGit/SpringBoot-mypet?style=social)  
   팀 프로젝트 (Spring Boot 기반 애완동물 관리 웹 앱)  
 
