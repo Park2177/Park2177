@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 박현준입니다
+# 👋 안녕하세요
 
 🌱 현재 학습 중: Java · JavaScript · JSP · Spring Boot · MySQL · HTML · CSS · Git  
 💻 관심 분야: 웹 애플리케이션 개발 및 문제 해결  
