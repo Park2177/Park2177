@@ -28,8 +28,3 @@
 
 ## 📫 연락 방법
 📧 이메일: snsn2177@naver.com  
-
----
-
-## 👀 방문자 수
-![Visitor](https://visitor-badge.glitch.me/badge?page_id=Park2177.Park2177)
